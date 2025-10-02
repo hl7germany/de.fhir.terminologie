@@ -1,0 +1,15 @@
+{
+  "package-id" : "de.fhir.template",
+  "title" : "Template for FHIR IGs published by HL7DE",
+  "canonical" : "http://fhir.de/templates/de.fhir.template",
+  "introduction" : "This is the template for FHIR guides published by HL7DE",
+  "list" : [
+    {
+      "version" : "0.1.0",
+      "desc" : "Latest stable",
+      "path" : "https://build.fhir.org/ig/",
+      "status" : "ci-build",
+      "current" : true
+    }
+  ]
+}
